@@ -1,0 +1,186 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1612274600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on techfios automation page",
+            "match": {
+              "location": "StepDefination.i_am_on_techfios_automation_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4577297100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefination.beforeRun()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "check setskyblue color buttons",
+        "description": "",
+        "id": "techfios-automation-page-set-background-color-button-functionality;check-setskyblue-color-buttons",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1119163700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Set Sky Blue Background button exist",
+            "match": {
+              "location": "StepDefination.set_Sky_Blue_Background_button_exist()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1113317000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on button",
+            "match": {
+              "location": "StepDefination.i_click_on_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1450281300,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "background color will change to sky blue",
+            "match": {
+              "location": "StepDefination.background_color_will_change_to_sky_blue()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 8,
+            "name": "@Scenario1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1409038800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on techfios automation page",
+            "match": {
+              "location": "StepDefination.i_am_on_techfios_automation_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2894044800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefination.beforeRun()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "check set white color button",
+        "description": "",
+        "id": "techfios-automation-page-set-background-color-button-functionality;check-set-white-color-button",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1093783600,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Set White Background button exist",
+            "match": {
+              "location": "StepDefination.set_White_Background_button_exist()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1107787500,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User clicks on the button",
+            "match": {
+              "location": "StepDefination.user_clicks_on_the_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 403363600,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "The background color will change to white",
+            "match": {
+              "location": "StepDefination.the_background_color_will_change_to_white()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 15,
+            "name": "@Senarion2"
+          }
+        ]
+      }
+    ],
+    "name": "Techfios automation page set background color button functionality",
+    "description": "",
+    "id": "techfios-automation-page-set-background-color-button-functionality",
+    "keyword": "Feature",
+    "uri": "features/Login.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Login"
+      }
+    ]
+  }
+]
